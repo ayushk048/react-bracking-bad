@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ayushk048/bracking-bad/static/css/main.47ae3587.chunk.css",
+    "main.js": "/ayushk048/bracking-bad/static/js/main.695b9fd1.chunk.js",
+    "main.js.map": "/ayushk048/bracking-bad/static/js/main.695b9fd1.chunk.js.map",
+    "runtime-main.js": "/ayushk048/bracking-bad/static/js/runtime-main.34ba4561.js",
+    "runtime-main.js.map": "/ayushk048/bracking-bad/static/js/runtime-main.34ba4561.js.map",
+    "static/js/2.dee9f4b2.chunk.js": "/ayushk048/bracking-bad/static/js/2.dee9f4b2.chunk.js",
+    "static/js/2.dee9f4b2.chunk.js.map": "/ayushk048/bracking-bad/static/js/2.dee9f4b2.chunk.js.map",
+    "index.html": "/ayushk048/bracking-bad/index.html",
+    "precache-manifest.e2365413d3586d6274d7b93c5443622a.js": "/ayushk048/bracking-bad/precache-manifest.e2365413d3586d6274d7b93c5443622a.js",
+    "service-worker.js": "/ayushk048/bracking-bad/service-worker.js",
+    "static/css/main.47ae3587.chunk.css.map": "/ayushk048/bracking-bad/static/css/main.47ae3587.chunk.css.map",
+    "static/js/2.dee9f4b2.chunk.js.LICENSE.txt": "/ayushk048/bracking-bad/static/js/2.dee9f4b2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ayushk048/bracking-bad/static/media/bg.1be2d3a0.jpg",
+    "static/media/logo.png": "/ayushk048/bracking-bad/static/media/logo.3795f66d.png",
+    "static/media/spinner.gif": "/ayushk048/bracking-bad/static/media/spinner.235b9b3e.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34ba4561.js",
+    "static/js/2.dee9f4b2.chunk.js",
+    "static/css/main.47ae3587.chunk.css",
+    "static/js/main.695b9fd1.chunk.js"
+  ]
+}
